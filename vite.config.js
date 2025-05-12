@@ -6,7 +6,7 @@ export default defineConfig({
   plugins: [react()],
   server: {
     open: true,
-    base: "/demo-repo/",
+    base: "react-vite-repo",
   },
 
 })
